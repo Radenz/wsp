@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"id.ac.itb.stei.informatika.wsp"},{"l":"id.ac.itb.stei.informatika.wsp.io"},{"l":"id.ac.itb.stei.informatika.wsp.type"}];updateSearchResults();

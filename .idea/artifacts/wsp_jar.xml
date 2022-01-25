@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="wsp:jar">
+    <output-path>$PROJECT_DIR$/bin</output-path>
+    <root id="archive" name="wsp.jar">
+      <element id="module-output" name="wsp" />
+    </root>
+  </artifact>
+</component>
